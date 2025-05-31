@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+openai
+langgraph
+pymongo
+python-dotenv
+pydantic
+asyncio
